@@ -59,7 +59,7 @@ _Aquí puedes agregar capturas de pantalla del juego._
 
 ## 👤 Autor
 
-Creado por **[Tu nombre o nickname]**.
+Jaid Espinoza 🤙
 
 ---
 
